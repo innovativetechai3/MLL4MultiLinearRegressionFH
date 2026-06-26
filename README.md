@@ -36,7 +36,7 @@ Dataset      : insuranceFH.csv (Kaggle)
 - CountplotBMLFH.png
 - HeatmapBMLFH.png
 - HistplotBMLFH.png
-- MultipleLinearRegressionFH.png
+- MultiLinearRegressionFH.png
 
 ## Output
 
