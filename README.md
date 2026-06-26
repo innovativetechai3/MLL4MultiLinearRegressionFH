@@ -1,12 +1,11 @@
 
-## Assignment No. 2(b) [ML L04 - Multi Linear Regression]
+## Assignment No. 2(b) [ML L04 - Multiple Linear Regression]
 
 Submitted By : FH
 Date         : 26 June 2026
 Dataset      : insuranceFH.csv (Kaggle)
 
-## ML Pipeline:
-
+## ML Pipeline
 1. Data loading
 2. EDA (Exploratory Data Analysis)
 3. Data Cleaning
@@ -15,9 +14,7 @@ Dataset      : insuranceFH.csv (Kaggle)
 6. Model Training
 7. Visualization
 
-
 ## Libraries
-
 - NumPy
 - Pandas
 - Matplotlib
@@ -36,17 +33,16 @@ Dataset      : insuranceFH.csv (Kaggle)
 - CountplotBMLFH.png
 - HeatmapBMLFH.png
 - HistplotBMLFH.png
-- MultiLinearRegressionFH.png
+- MultipleLinearRegressionFH.png
 
 ## Output
-
 - Dataset summary (head, tail, shape, info, statistics)
 - Exploratory Data Analysis (EDA) visualizations
 - Encoded and scaled dataset
 - Pearson Correlation analysis
 - Chi-Square feature selection results
 - Selected features for training
-- Trained Multi Linear Regression model
+- Trained Multiple Linear Regression model
 - Synthetic inference predictions
 - Feature coefficients
 - Model evaluation (R² Score)
