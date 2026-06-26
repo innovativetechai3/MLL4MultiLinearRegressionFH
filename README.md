@@ -1,11 +1,11 @@
-=======================================================
-Assignment No. 2(b) [ML L04 - Multi Linear Regression]
-=======================================================
+
+## Assignment No. 2(b) [ML L04 - Multi Linear Regression]
+
 Submitted By : FH
 Date         : 26 June 2026
 Dataset      : insuranceFH.csv (Kaggle)
 
-ML Pipeline:
+## ML Pipeline:
 
 1. Data loading
 2. EDA (Exploratory Data Analysis)
@@ -25,12 +25,20 @@ ML Pipeline:
 - Scikit-Learn
 - SciPy
 
-Files
-- SalaryFHL3.csv
-- regression_plot.png
+## Files
+- MLAssgn2aFH.py
+- insuranceFH.csv
+- README.md
+- MLAss2(a)Output1FH.jpg
+- MLAss2(a)Output2FH.jpg
+- MLAss2(a)Output3FH.jpg
+- BoxplotBMLFH.png
+- CountplotBMLFH.png
+- HeatmapBMLFH.png
+- HistplotBMLFH.png
+- MultipleLinearRegressionFH.png
 
-Output
-Output
+## Output
 
 - Dataset summary (head, tail, shape, info, statistics)
 - Exploratory Data Analysis (EDA) visualizations
