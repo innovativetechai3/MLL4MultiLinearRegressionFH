@@ -1,5 +1,5 @@
 =======================================================
-Assignment No. 2(b) [ML L04 - Multiple Linear Regression]
+Assignment No. 2(b) [ML L04 - Multi Linear Regression]
 =======================================================
 Submitted By : FH
 Date         : 26 June 2026
