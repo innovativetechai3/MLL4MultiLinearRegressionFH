@@ -46,7 +46,7 @@ Dataset      : insuranceFH.csv (Kaggle)
 - Pearson Correlation analysis
 - Chi-Square feature selection results
 - Selected features for training
-- Trained Multiple Linear Regression model
+- Trained Multi Linear Regression model
 - Synthetic inference predictions
 - Feature coefficients
 - Model evaluation (R² Score)
